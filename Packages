@@ -10,6 +10,6 @@ Section: Tweaks
 Filename: ./debs/com.kgeetings.fixrandomresprings.deb
 Depiction: https://KGeetings.github.io/repo/depictions/fixrandomresprings
 Size: 1152
-SHA1: efb6bc14087613dfa9423ebdfe9aa35a4513993f
+SHA1: efb6bc14087613dfa9423ebdfe9aa35a4513993f 
 SHA256: a9d1232c3511d3d90adc2321248051eca09d602956e7f951417787e8eaa80270
 MD5sum: 9dab36f9568e0260bbbc0483f628a63e
