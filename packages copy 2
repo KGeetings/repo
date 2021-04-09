@@ -1,0 +1,19 @@
+Package: com.kgeetings.fixrandomresprings
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: kgeetings <kengeetfallback@gmail.com>
+Depends: firmware (>=12.0), com.bingner.plutil
+Filename: ./pkg/com.kgeetings.fixrandomresprings.deb
+Size: 134296
+MD5sum: 9dab36f9568e0260bbbc0483f628a63e
+SHA1: efb6bc14087613dfa9423ebdfe9aa35a4513993f
+SHA256: a9d1232c3511d3d90adc2321248051eca09d602956e7f951417787e8eaa80270
+Section: Tweaks
+Homepage: https://kgeetings.github.io/repo/
+Description: Fix jetsam memory issues.
+Author: kgeetings <kengeetfallback@gmail.com>
+Depiction: https://kgeetings.github.io/repo/depiction/web/com.kgeetings.fixrandomrespings.html
+Icon: https://kgeetings.github.io/repo/assets/com.kgeetings.fixrandomresprings/icon.png
+Moderndepiction: https://kgeetings.github.io/repo/depiction/native/com.kgeetings.fixrandomresprings.json
+Name: FixRandomResprings
+Sileodepiction: https://kgeetings.github.io/repo/depiction/native/com.kgeetings.fixrandomresprings.json
