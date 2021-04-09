@@ -1,8 +1,8 @@
-Origin: KGeetings Repo
-Label: KGeetings Repo
+Origin: Pheux Repository
+Label: Pheux Repository
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Cydia Tweak
+Description: Pheux - repository in progress
