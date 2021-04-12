@@ -1,6 +1,6 @@
 <package>
-    <id>com.rpetrich.videopace_2.0.0_iphoneos-arm</id>
-	<name>VideoPace</name>
+    <id>com.rpetrich.videopace</id>
+	<name>VideoPace 2</name>
     <version>2.0.0</version>
 	<compatibility>
 		<firmware>
@@ -8,10 +8,10 @@
 		</firmware>
 	</compatibility>
 	<dependencies>
-        <package>firmware (>= 9.3)</package>
+        <package>firmware (>= 9.3), mobilesubstrate, preferenceloader, applist, com.rpetrich.rocketbootstrap</package>
 	</dependencies>
 	<descriptionlist>
-		<description> change video playback speed</description>
+		<description> Increase speed of video playback</description>
 	</descriptionlist>
 	<changelog>
         <version>1.0.0</version>

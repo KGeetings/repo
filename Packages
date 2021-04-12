@@ -14,14 +14,14 @@ SHA1: efb6bc14087613dfa9423ebdfe9aa35a4513993f
 SHA256: a9d1232c3511d3d90adc2321248051eca09d602956e7f951417787e8eaa80270
 MD5sum: 9dab36f9568e0260bbbc0483f628a63e
 
-Package: com.rpetrich.videopace_2.0.0_iphoneos-arm
-Name: VideoPace
-Depends: firmware (>= 9.3)
+Package: com.rpetrich.videopace
+Name: VideoPace 2
+Depends: firmware (>= 9.3), mobilesubstrate, preferenceloader, applist, com.rpetrich.rocketbootstrap
 Version: 2.0.0
 Architecture: iphoneos-arm
-Description: Change video playback speed
-Maintainer: Igariv
-Author: rpetrich
+Description: Increase speed of video playback
+Maintainer: Lavie Gariv
+Author: Ryan Petrich
 Section: Tweaks
 Filename: ./debs/com.rpetrich.videopace_2.0.0_iphoneos-arm
 Depiction: https://kgeetings.github.io/repo/depictions/VideoPace
