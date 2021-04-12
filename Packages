@@ -14,17 +14,17 @@ SHA1: efb6bc14087613dfa9423ebdfe9aa35a4513993f
 SHA256: a9d1232c3511d3d90adc2321248051eca09d602956e7f951417787e8eaa80270
 MD5sum: 9dab36f9568e0260bbbc0483f628a63e
 
-Package: com.rpetrich.videospace_2.0.0_iphoneos-arm
-Name: VideoSpace
+Package: com.rpetrich.videopace_2.0.0_iphoneos-arm
+Name: VideoPace
 Depends: firmware (>= 9.3)
 Version: 2.0.0
 Architecture: iphoneos-arm
-Description: Change video speeds
+Description: Change video playback speed
 Maintainer: Igariv
 Author: rpetrich
 Section: Tweaks
-Filename: ./debs/com.rpetrich.videospace_2.0.0_iphoneos-arm
-Depiction: https://kgeetings.github.io/repo/depictions/VideoSpace
+Filename: ./debs/com.rpetrich.videopace_2.0.0_iphoneos-arm
+Depiction: https://kgeetings.github.io/repo/depictions/VideoPace
 Size: 1756
 SHA1: 58040101dc2a7078a977f95aa4ac9a1f7e6406e4 
 SHA256: c38dc72272cc9ff380e8282b4b50986b3d475f59e89c40610280ef5f6a0abea2

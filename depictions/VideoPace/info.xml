@@ -1,6 +1,6 @@
 <package>
-    <id>com.rpetrich.videospace_2.0.0_iphoneos-arm</id>
-	<name>VideoSpace</name>
+    <id>com.rpetrich.videopace_2.0.0_iphoneos-arm</id>
+	<name>VideoPace</name>
     <version>2.0.0</version>
 	<compatibility>
 		<firmware>
