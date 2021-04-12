@@ -1,0 +1,27 @@
+<package>
+    <id>com.rpetrich.videospace_2.0.0_iphoneos-arm</id>
+	<name>VideoSpace</name>
+    <version>2.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>9.3</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+        <package>firmware (>= 9.3)</package>
+	</dependencies>
+	<descriptionlist>
+		<description> change video playback speed</description>
+	</descriptionlist>
+	<changelog>
+        <version>1.0.0</version>
+		<change>Initial release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
